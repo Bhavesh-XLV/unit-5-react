@@ -1,0 +1,9 @@
+.redtext {
+  color: red;
+}
+
+#iam > img {
+  margin-left: 6%;
+  width: 200px;
+  height: 100px;
+}
