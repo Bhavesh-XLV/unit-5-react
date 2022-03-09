@@ -1,0 +1,44 @@
+{
+  "groceries": [
+    {
+      "title": "kurkure",
+      "purchased": false,
+      "id": 1
+    },
+    {
+      "title": "mango",
+      "purchased": false,
+      "id": 2
+    },
+    {
+      "title": "potato",
+      "purchased": false,
+      "id": 3
+    },
+    {
+      "title": "jalebi",
+      "purchased": false,
+      "id": 4
+    },
+    {
+      "title": "marie-gold",
+      "purchased": false,
+      "id": 5
+    },
+    {
+      "title": "marie-gold",
+      "purchased": false,
+      "id": 6
+    },
+    {
+      "title": "biscuit",
+      "purchased": false,
+      "id": 7
+    },
+    {
+      "title": "",
+      "purchased": false,
+      "id": 8
+    }
+  ]
+}
